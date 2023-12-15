@@ -6,7 +6,7 @@
 x = None
 
 if x:
-  print("Do you think None is True?")
+  print("Do you think None is True? Nope its not")
 elif x is False:
   print ("Do you think None is False?")
 else:
